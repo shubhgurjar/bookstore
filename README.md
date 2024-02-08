@@ -21,7 +21,7 @@ To run this application locally or make modifications, follow these steps:
 3. Install the required dependencies (if any) using pip.
 4. Run the application: `python front_end.py`
 
-## Run Desktop App directly
+## Run Desktop App
 1. Clone the repository: `git clone https://github.com/your-github-username/book-store-app.git`
 2. Navigate to the project directory: `cd bookstore`
 3. Double-click on front_end.exe to run the application
