@@ -34,7 +34,7 @@ Once the application is running, you can perform the following actions:
 - View all book records
 - Search for a specific book by title, author, or any other criteria
 
-## Contributing
+## Contribution
 Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Contact
